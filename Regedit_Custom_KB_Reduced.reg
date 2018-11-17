@@ -1,0 +1,4 @@
+REGEDIT.RegeditEngine
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpAckFrequency"=dword:650
+"TcpNoDelay"=dword:650
